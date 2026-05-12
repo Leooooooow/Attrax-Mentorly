@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creator Hotspot API"
+  short_description: "Call the Creator Hotspot Service core recommendation endpoints."
+  default_prompt: "Use this skill to call the Creator Hotspot Service core endpoints for post recommendations or market info aggregation."

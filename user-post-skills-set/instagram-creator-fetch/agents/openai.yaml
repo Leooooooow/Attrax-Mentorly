@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagram Creator Fetch"
+  short_description: "Fetch Instagram creator profiles and posts."
+  default_prompt: "Fetch an Instagram creator profile and recent posts from the local CLI. Enable Gemini only when the request explicitly needs media understanding."

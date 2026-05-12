@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Virtual env
+.venv/
+venv/
+
+# Local state — never commit DB files
+*.db
+*.db-shm
+*.db-wal
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Build
+build/
+dist/

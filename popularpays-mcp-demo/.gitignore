@@ -1,0 +1,10 @@
+node_modules/
+.playwright-cli/
+
+output/*
+!output/playwright/
+output/playwright/*
+!output/playwright/popularpays-cards.json
+
+.DS_Store
+Thumbs.db
